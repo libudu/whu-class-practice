@@ -1,6 +1,0 @@
-C:\ZhangHeng\programming practice\c# work place\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\ZhangHeng\programming practice\c# work place\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\ZhangHeng\programming practice\c# work place\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\ZhangHeng\programming practice\c# work place\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-C:\ZhangHeng\programming practice\c# work place\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\ZhangHeng\programming practice\c# work place\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
