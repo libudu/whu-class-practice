@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice5", "practice5\practice5.csproj", "{5FFED530-B31A-4E22-B0CB-1401AB0ECF46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice6", "practice5\practice6.csproj", "{5FFED530-B31A-4E22-B0CB-1401AB0ECF46}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "practice5Tests", "practice5Tests\practice5Tests.csproj", "{BED299C9-A776-4AAE-B91D-CEDCCC3015A8}"
 EndProject
