@@ -15,7 +15,7 @@ namespace CrawlerConsole
     {
         private Hashtable urls = new Hashtable();
         private int count = 0;
-        private String startUrl = "https://www.cnblogs.com/dstang2000/";
+        private String startUrl = "http://image.baidu.com/search/index?tn=baiduimage&ps=1&ct=201326592&lm=-1&cl=2&nc=1&ie=utf-8&word=%E6%AD%A6%E5%8F%88%E5%B8%A6%E5%AD%A6";
         static void Main(string[] args)
         {
             Program myCrawler = new Program();
